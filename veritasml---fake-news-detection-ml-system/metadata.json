@@ -1,0 +1,6 @@
+{
+  "name": "VeritasML - Fake News Detection ML System",
+  "description": "Full-stack Machine Learning fake news detection system combining TF-IDF vectorization, Logistic Regression, Naive Bayes, Passive-Aggressive classifier, XAI feature importance, and deep AI verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
